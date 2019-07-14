@@ -1,4 +1,4 @@
-package in.iisc.csa.sujeet.elasticsearch.main;
+package elasticsearch.main;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ import org.elasticsearch.search.SearchHit;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import in.iisc.csa.sujeet.elasticsearch.pojo.Person;
+import elasticsearch.pojo.Person;
 
 public class Fetchdata {
 	public static void main(String[] args) {

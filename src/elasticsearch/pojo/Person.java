@@ -1,4 +1,4 @@
-package in.iisc.csa.sujeet.elasticsearch.pojo;
+package elasticsearch.pojo;
 
 import java.util.Date;
 
